@@ -1,6 +1,6 @@
 Divya Kamakshi Ponnada
 
-<h1>Hi <img src="https://images.app.goo.gl/jNYPb6GeuMwg1eQa9" width="30px"> I'm Divya Kamakshi</h1>
+<h1>Hi <img src="https://images.app.goo.gl/Mr7SAvTQXG1ghdbs5"> I'm Divya Kamakshi</h1>
 
 <p><Divya Kamakshi> is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
 <h1 align="center"> Hi there! </h1>
