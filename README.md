@@ -5,7 +5,7 @@ Divya Kamakshi Ponnada
 <p><Divya Kamakshi> is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
 <h1 align="center"> Hi there! </h1>
 <p align="center">I'm <strong>Divya Kamakshi</strong>, a passionate <strong>DevOps Engineer</strong> from India. Welcome to my GitHub profile! 🚀</p>
-<img align="right" height="150rem" alt="GIF" src="https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video" />
+<img align="right" height="150rem" alt="GIF" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
 <h3 align="center"> About Me 🌟</h3>
 <p align="center">I'm an enthusiast in automating things, scripting, and finding efficient solutions to complex problems. My goal is to make the world of technology more accessible and streamlined for everyone.</p>
